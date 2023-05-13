@@ -1,6 +1,6 @@
 <h1 align="center">CUBOSFLIX</h1>
 
-- ![CUBOSFLIX](./.github/project.gif)
+![CUBOSFLIX](./.github/project.gif)
 
 Site de streaming desenvolvido utilizando HTML, CSS e JavaScript.
 
@@ -12,6 +12,7 @@ O projeto consiste num site de streaming chamado CUBOSFLIX algo similar à NETFL
   ![Visualização de filmes](./.github/main.png)
 - Paginação de filmes
   ![Pagination](./.github/pagination.gif)
+
 - Busca de filmes
   ![Search Movie](./.github/search-movie.png)
 
