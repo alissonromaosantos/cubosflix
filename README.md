@@ -10,7 +10,7 @@ O projeto consiste num site de streaming chamado CUBOSFLIX algo similar à NETFL
 
 - Visualização de filmes
   ![Visualização de filmes](./.github/main.png)
-- Paginação de filmes
+- Paginação de filmes <br/>
   ![Pagination](./.github/pagination.gif)
 
 - Busca de filmes
